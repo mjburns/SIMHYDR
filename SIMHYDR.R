@@ -1,7 +1,8 @@
 
 
 ##### SIMHYD in R
-##### MJB, 2014
+##### Updated to GITHUB
+##### MJB, 2014 (this was when the file was created)
 
 ##### INPUT DATA
 # Daily rainfall
